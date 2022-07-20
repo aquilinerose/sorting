@@ -1,0 +1,12 @@
+photon@node11:~$ ./insertionsort.out
+Enter number of elements
+6
+Enter the integers
+9
+4
+7
+2
+6
+4
+Sorted list in ascending order:
+2	4	4	6	7	9	photon@node11:~$
