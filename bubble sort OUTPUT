@@ -1,0 +1,15 @@
+photon@node11:~$ ./bubblesort.out
+Enter number of elements
+6
+Enter the integers
+1
+4
+2
+7
+4
+8
+Sorted list in ascending order:
+1	2	4	4	7	8	
+Sorted list in descending order:
+8	7	4	4	2	1	photon@node11:~$ 
+
